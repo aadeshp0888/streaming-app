@@ -1,5 +1,5 @@
 # streaming-app
-his project uses the following technologies:
+This project uses the following technologies:
 
 Backend
 Node.js: JavaScript runtime environment.
